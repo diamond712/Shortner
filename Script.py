@@ -6,7 +6,7 @@ class script(object):
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂.</b>"""
 
     ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Cyniteofficial>Cynite</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Ammi_jon>Ammi_jon</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -16,7 +16,7 @@ class script(object):
     SOURCE_TXT = """<b>NOTE:</b>
 <b>- This Is Private Code </b>
 <b>DEVS:</b>
-- <a href=https://t.me/Cyniteofficial>Cynite</a>"""
+- <a href=https://t.me/Ammi_jon>Ammi_jon</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
